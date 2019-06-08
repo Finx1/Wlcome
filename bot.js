@@ -215,19 +215,28 @@ client.on("message", message => {
 	});
 
 
-client.on("ready", async  => {
-setInterval(function(){
-client.channels.find('id', '579109625530679296').setName("┏");
-client.channels.find('id', '579109625530679296').setName("┏●");
-client.channels.find('id', '579109625530679296').setName("┏●i");
-client.channels.find('id', '579109625530679296').setName("┏●in");
-client.channels.find('id', '579109625530679296').setName("┏●in-");
-client.channels.find('id', '579109625530679296').setName("┏●in-f");
-client.channels.find('id', '579109625530679296').setName("┏●in-fo");
-client.channels.find('id', '579109625530679296').setName("┏●in-fo●");
-client.channels.find('id', '579109625530679296').setName("┏●in-fo●┓");
-  }, 3000);
-});
+client.on("ready", async  => {//Dr TriCk
+setInterval(function(){//Dr TriCk
+client.channels.find('id', '586910416656138261').setName("𝐖");//Dr TriCk
+client.channels.find('id', '586910416656138261').setName("𝐖𝐄");//Dr TriCk
+client.channels.find('id', '586910416656138261').setName("𝐖𝐄𝐋");//Dr TriCk
+client.channels.find('id', '586910416656138261').setName("𝐖𝐄𝐋𝐂");//Dr TriCk
+client.channels.find('id', '586910416656138261').setName("𝐖𝐄𝐋𝐂𝐎");//Dr TriCk
+client.channels.find('id', '586910416656138261').setName("𝐖𝐄𝐋𝐂𝐎𝐌");//Dr TriCk
+client.channels.find('id', '586910416656138261').setName("𝐖𝐄𝐋𝐂𝐎𝐌𝐄");//Dr TriCk
+client.channels.find('id', '586910416656138261').setName("𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓");//Dr TriCk
+client.channels.find('id', '586910416656138261').setName("𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎");//Dr TriCk
+client.channels.find('id', '586910416656138261').setName("DR");//Dr TriCk
+client.channels.find('id', '586910416656138261').setName("DRO);//Dr TriCk
+client.channels.find('id', '586910416656138261').setName("DROP");//Dr TriCk
+client.channels.find('id', '586910416656138261').setName("DROP S");//Dr TriCk
+client.channels.find('id', '586910416656138261').setName("DROP SE");//Dr TriCk
+client.channels.find('id', '586910416656138261').setName("DROP SER");//Dr TriCk
+client.channels.find('id', '586910416656138261').setName("DROP SERV");//Dr TriCk
+client.channels.find('id', '586910416656138261').setName("DROP SERVE");//Dr TriCk
+client.channels.find('id', '586910416656138261').setName("DROP SERVER");//Dr TriCk
+ }, 5000);//Dr TriCk
+});//Dr TriCk
 	
 client.on('guildMemberAdd', member=> {
     member.addRole(member.guild.roles.find("name","friend"));
