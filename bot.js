@@ -242,7 +242,7 @@ client.on('guildMemberAdd', member=> {
     member.addRole(member.guild.roles.find("name","friend"));
     });
 client.on('guildMemberAdd', member=> {
-    member.addRole(member.guild.roles.find("name","NORMANDY"));
+    member.addRole(member.guild.roles.find("name","FINX"));
     });
 
 client.on('message', message => {
@@ -791,7 +791,7 @@ client.on("guildMemberAdd", member => {
 setTimeout(function(){ 
   const channel = member.guild.channels.find('id', '579089974838689812');  
 if (!channel) return; 
-  channel.send(`**Welcome To [__NORMANDY__]:shopping_cart:** ❤️ , ${member}`) 
+  channel.send(`**Welcome To [__DROB SERVER __]:shopping_cart:** ❤️ , ${member}`) 
 }, 5000);  
 }});  
 
@@ -817,7 +817,7 @@ client.on('guildMemberAdd', member => {
     invites[member.guild.id] = guildInvites;
     const invite = guildInvites.find(i => ei.get(i.code).uses < i.uses);
     const inviter = client.users.get(invite.inviter.id);
-    const logChannel = member.guild.channels.find(channel => channel.name === "normandy");
+    const logChannel = member.guild.channels.find(channel => channel.name === "FINX");
     logChannel.send(`${member} **Invited by:** <@${inviter.id}>`);
   });
 });
