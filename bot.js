@@ -336,7 +336,7 @@ if(ra3d.content.startsWith(prefix + 'ccolors')) {
 
 client.on('ready', function(){
     var ms = 40000 ;
-    var setGame = [`${client.guilds.size} Server`,' NORMANDY ',`${client.users.size} Members`,'By:DrTriCk'];
+    var setGame = [`${client.guilds.size} Server`,' FINX LOCK AT DROB SERVER ',`${client.users.size} Members`,'By:-FINx'];
     var i = -1;
     var j = 0;
     setInterval(function (){
