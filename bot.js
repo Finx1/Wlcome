@@ -227,7 +227,7 @@ client.channels.find('id', '586910416656138261').setName("𝐖𝐄𝐋𝐂𝐎�
 client.channels.find('id', '586910416656138261').setName("𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓");//Dr TriCk
 client.channels.find('id', '586910416656138261').setName("𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎");//Dr TriCk
 client.channels.find('id', '586910416656138261').setName("DR");//Dr TriCk
-client.channels.find('id', '586910416656138261').setName("DRO);//Dr TriCk
+client.channels.find('id', '586910416656138261').setName("DRO");//Dr TriCk
 client.channels.find('id', '586910416656138261').setName("DROP");//Dr TriCk
 client.channels.find('id', '586910416656138261').setName("DROP S");//Dr TriCk
 client.channels.find('id', '586910416656138261').setName("DROP SE");//Dr TriCk
