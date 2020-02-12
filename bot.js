@@ -217,13 +217,13 @@ client.on("message", message => {
 
 client.on("ready", async  => {//Dr TriCk
 setInterval(function(){//Dr TriCk
-client.channels.find('id', '586910416656138261').setName("𝐖");//Dr TriCk
-client.channels.find('id', '586910416656138261').setName("𝐖𝐄");//Dr TriCk
-client.channels.find('id', '586910416656138261').setName("𝐖𝐄𝐋");//Dr TriCk
-client.channels.find('id', '586910416656138261').setName("𝐖𝐄𝐋𝐂");//Dr TriCk
-client.channels.find('id', '586910416656138261').setName("𝐖𝐄𝐋𝐂𝐎");//Dr TriCk
-client.channels.find('id', '586910416656138261').setName("𝐖𝐄𝐋𝐂𝐎𝐌");//Dr TriCk
-client.channels.find('id', '586910416656138261').setName("𝐖𝐄𝐋𝐂𝐎𝐌𝐄");//Dr TriCk
+client.channels.find('id', '620669432532041752').setName("𝐖");//Dr TriCk
+client.channels.find('id', '620669432532041752').setName("𝐖𝐄");//Dr TriCk
+client.channels.find('id', '620669432532041752').setName("𝐖𝐄𝐋");//Dr TriCk
+client.channels.find('id', '620669432532041752').setName("𝐖𝐄𝐋𝐂");//Dr TriCk
+client.channels.find('id', '620669432532041752').setName("𝐖𝐄𝐋𝐂𝐎");//Dr TriCk
+client.channels.find('id', '620669432532041752').setName("𝐖𝐄𝐋𝐂𝐎𝐌");//Dr TriCk
+client.channels.find('id', '620669432532041752').setName("𝐖𝐄𝐋𝐂𝐎𝐌𝐄");//Dr TriCk
 client.channels.find('id', '586910416656138261').setName("𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓");//Dr TriCk
 client.channels.find('id', '586910416656138261').setName("𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎");//Dr TriCk
 client.channels.find('id', '586910416656138261').setName("DR");//Dr TriCk
